@@ -181,7 +181,7 @@ La persona de 15 años es: Adolescente
 ---
 
 ### A2 — Función filtrar con callback
-**Archivo:** `a2_filtrar_callback.dart`
+**Archivo:** `a2_filtrar_callback.datr`
 
 Dado el siguiente `List<int>`:
 
