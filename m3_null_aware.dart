@@ -1,6 +1,6 @@
 void main(){
-  print('Bienvenido, $nombre');
+  print('Bienvenido, $nombreUsuario');
 }
 
-String? nombre;
-String nombreUsuario = nombre ?? 'Invitado'; 
+String? nombreIngresado;
+String nombreUsuario = nombreIngresado ?? 'Invitado'; 

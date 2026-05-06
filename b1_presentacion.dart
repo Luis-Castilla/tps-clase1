@@ -2,10 +2,10 @@ void main(){
   print(frase);
 }
 
-String name = 'Javier';
-int age = 20;
-String city = 'Valledupar';
+String nombre = 'Javier';
+int edad = 20;
+String ciudad = 'Valledupar';
 String frase = '''
-Hola, soy $name, tengo $age años y soy de $city.
+Hola, soy $nombre, tengo $edad años y soy de $ciudad.
 ''';
 
